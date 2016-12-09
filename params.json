@@ -1,6 +1,6 @@
 {
   "name": "Test",
   "tagline": "This is a test repository",
-  "body": "# This is the front page",
+  "body": "# This is the front page\r\n\r\n[first page](index.html)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
